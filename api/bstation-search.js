@@ -74,7 +74,7 @@ async function bilibili(q) {
 // === Export Modul ===
 module.exports = {
   name: "Bstation Search",
-  desc: "Search Bstation (Bilibili) videos",
+  desc: "Search Bstation videos",
   category: "Search",
   path: "/search/bstation?apikey=&q=",
 
