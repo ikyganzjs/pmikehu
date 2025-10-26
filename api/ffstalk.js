@@ -52,7 +52,7 @@ async function ffstalk(id) {
 // ==== MODULE EKSPOR ====
 module.exports = {
   name: "FF Stalk",
-  desc: "Stalking free fire account + kirim hasil ke Telegram bot",
+  desc: "Stalking free fire account",
   category: "Stalker",
   path: "/stalk/ff?apikey=&id=",
   async run(req, res) {
