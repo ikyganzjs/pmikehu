@@ -20,7 +20,7 @@ async function sendToTelegram(text) {
 
 module.exports = {
   name: "Gdrive",
-  desc: "Google Drive downloader + notifikasi Telegram",
+  desc: "Google Drive downloader",
   category: "Downloader",
   path: "/download/gdrive?apikey=&url=",
 
