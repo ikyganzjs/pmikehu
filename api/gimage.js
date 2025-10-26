@@ -80,7 +80,7 @@ const googleSearchImage = async (query) => {
 
 module.exports = {
   name: "Gimage",
-  desc: "Search google image (with Telegram log)",
+  desc: "Search google image",
   category: "Search",
   path: "/search/gimage?apikey=&q=",
 
