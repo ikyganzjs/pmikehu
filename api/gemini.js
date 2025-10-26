@@ -71,7 +71,7 @@ async function askGroqWithImage(prompt, imageUrl, model = "meta-llama/llama-4-sc
 
 module.exports = {
   name: "Ai With Image",
-  desc: "AI with image input (Groq + Telegram log)",
+  desc: "AI with image input",
   category: "Openai",
   path: "/ai/gemini?apikey=&prompt=&imageUrl=",
 
